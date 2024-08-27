@@ -1,6 +1,6 @@
 import pandas as pd
 
-health_data=pd.read_csv("Health_and_Lifestyle.csv")
+airline_data=pd.read_csv("week_5/Airline_Review.csv")
 
-print(health_data.describe())
+print(airline_data)
 # print(health_data.shape())
